@@ -74,7 +74,7 @@ Embedded Systems Engineer – *PHYTEC Embedded Pvt. Ltd, Bengaluru*  
 | Platform | Link |
 | :--- | :--- |
 | 📧 Email | <a href="mailto:rspramodh5@gmail.com">rspramodh5@gmail.com</a> |
-| 🔗 LinkedIn | <a href="https://www.linkedin.com/in/pramodh-rs-3190692b6">Pramodh R S</a> |
+| 🔗 LinkedIn | <a href="https://www.linkedin.com/in/pramodh-rs-3190692b6/">Pramodh R S</a> |
 | 🐙 GitHub | <a href="https://github.com/Pramodh-RS2004">@Pramodh-RS2004</a> |
 
 ---
