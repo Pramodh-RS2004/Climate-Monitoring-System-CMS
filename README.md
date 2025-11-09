@@ -33,7 +33,7 @@ This project goes beyond simple data logging by incorporating resilient hardware
 The system is designed around a distributed network of sensor nodes reporting to a central edge gateway, powered by a robust, autonomous power management system.
 
 <p align="center">
-  <img src="Climate Monitorig System" alt="Animated Block Diagram showing flow from Sensors to Edge Node to Cloud" width="800" />
+  <img src="Climate Monitorig System.png"  width="800" />
 </p>
 
 ### 📡 Data Acquisition Path
